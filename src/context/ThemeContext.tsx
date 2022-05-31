@@ -1,5 +1,5 @@
 import { createContext, useState } from 'react';
-import Props from '../components/interfaces/Props';
+import Props from '../interfaces/Props';
 
 type Theme = 'light' | 'dark';
 

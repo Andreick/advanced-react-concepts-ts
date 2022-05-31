@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import ThemeContext from '../context/ThemeContext';
-import Props from './interfaces/Props';
+import Props from '../interfaces/Props';
 import Navbar from './Navbar';
 
 export default function Layout(props: Props) {
